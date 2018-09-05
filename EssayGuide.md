@@ -22,8 +22,9 @@ exposition (originally called introduction), rising action (rise),
 climax, falling action (return or fall), and dénouement/resolution/revelation/catastrophe.
 
 ## Introduction
-Párrafo 1.
+Párrafo 1. Historia educación en México.
 
+vkhdgfku.adshgfdshl
 Párrafo 2
 
 Considering the beamer presentation of Lecture 1, remember that introduction section
