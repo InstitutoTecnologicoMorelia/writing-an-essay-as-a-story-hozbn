@@ -11,37 +11,49 @@ and dénouement/resolution/revelation/catastrophe^[1]
 [1]: https://en.wikipedia.org/wiki/Dramatic_structure
 -->
 
-# A Non Complex and Extent Name for your Essay Write as a Story to Learn the Structure and Develop Supported Ideas, Using Atom and Git-Hub
+# Un Ingeniero Más
 
-Here is basic guide about how to write an Essay. Try to use this guide to define
-what ideas should contain each section.
+## Cápitulo 1
 
-Please remember to write this essay as a storyteller. Considering the definition
-present  Under Freytag's pyramid, the plot of a story consists of five parts:
-exposition (originally called introduction), rising action (rise),
-climax, falling action (return or fall), and dénouement/resolution/revelation/catastrophe.
+Luvia de ideas:
 
-## Introduction
-Párrafo 1. Historia educación en México.
+- Historia educación en México.
+- Atrixco, puebla, Año 2003.
+- linaje en la familia  abogados, contadores, administradores.
+- Curiosidad ambito tecnológico, inspirado en historias y reconocimientos obtenidos por padres.
+- Relatos e historias donde el ambito tecnologico tiene un gran impacto.
 
-vkhdgfku.adshgfdshl
-Párrafo 2
+## Cápitulo 2
+Trama principal de la historia:
+- Conflictos por seleccion de estudios.
+- Crisis económica por familiares.
+- Resolucion de problematicas.
+- Cambio en el cruso de la historia.
+- **¿Quién es el protagonista?**
+- *¿Qué quiere?*
+- ¿Qué se interpone en su camino para alcanzar su objetivo**.
 
-Considering the beamer presentation of Lecture 1, remember that introduction section
-must contain:
-- Some comment on the topic of the essay.
-- Perhaps definitions are needed.
-- Also state which aspects of the topic you intend to deal with and why.
-- Remember you are not writing a book, so you need to select a few main arguments to support your answer to the question.
-- Your introduction should consist of a guide to the essay giving the reader a clear idea of what will follow.
+## Personajes
+- Familiares. Madre soltera, Abuelos orgullosos.
+- Amigos. 3 amigos, el conflictivo, el apoyador, un traidor.
 
-## Body
-The body of the essay will take each of previous main points and develop them with **examples and illustrations**, using clearly defined paragraphs. This is where you will need to think about the structure of your essay and make sure you follow a clear path through to your conclusion.
-
-Also you can try reading this guide to help yourself to start your essay-Story [^1].
+## Trama
+- Trabajos.
+- Necesidades. Problematicas dentro de su entorno.
+- Deseos.
+- Exposición. Vida normal del personaje hasta inicio de historia.
+- Acciones que  se realizan para resolver la situación.
+- Conflictos, problemas, soluciones.
+- Desenlace
 
 ## Conclusion
 
+Posibles desenlaces.
+- Cumplimiento de objetivos, con posibles repercusiones.
+- Deslenace tragico, con moraleja y enseñanza como ejemplo de vida.
+- Objetivos alcanzados.
+
+Also you can try reading this guide to help yourself to start your essay-Story [^1].
 ## References
 
 [^1]: Ten Steps to Write an Essay, http://www.schoolatoz.nsw.edu.au/homework-and-study/homework-tips/10-tips-for-writing-an-essay, accessed August 23, 2018.
