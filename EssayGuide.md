@@ -15,9 +15,11 @@ and dénouement/resolution/revelation/catastrophe^[1]
 
 ## Una ruta sin sentido.
 
-Desanimado por una vida preescrita llena de contratos por leer, administrar, gente falsa e impugna que defender, miles y miles de hojas de contabilidad que llenar, cuentas que rendir a personas de un alto nivel socieconomico o simplemente el hecho de tener que estar detras de un escritorio en un trabajo el cual no le generara ningun tipo de emocion, asi se veia el Joven Carlos, en aquella epoca, Verano del 2003, ciudad: Atlixco, Puebla.
+Desanimado por una vida prescrita llena de contratos por leer, administrar, gente falsa e impugna que defender, miles y miles de hojas de contabilidad que llenar, cuentas que rendir a personas de un alto nivel socieconomico o simplemente el hecho de tener que estar detras de un escritorio en un trabajo el cual no le generara ningun tipo de emocion, asi se veia el Joven Carlos, en aquella epoca, Verano del 2009, Atlixco, Puebla.
 
-Decido a realizar examen de admision en el Instituto tecnológico de Puebla, en su cabeza solo podia escuchar la voz de su madre replicandole, ¿Porque alli?, ¿Porque no vas con tus primos a la escuela de abogados?, ¿Porque no vas entras con tu hermano a contabilidad? ¿Porque una ingenieria? ¿Para que? ¿De eso ni hay trabajo aqui?. Estas y mas de un millar de preguntas mas, solo reforzaban el deseo de querer
+Decidido a realizar examen de admision en el Instituto tecnológico de Puebla, en su cabeza solo podia escuchar la voz de su madre replicandole, ¿Porque alli?, ¿Porque no vas con tus primos a la escuela de abogados?, ¿Porque no entras con tu hermano a contabilidad? ¿Porque una ingenieria? ¿Para que? ¿Acaso hay trabajo de eso aqui?. Éstas y más de un millar de preguntas mas, solo reforzaban el deseo de Carlos de querer entrar a una ingenieria. Aquel joven con tan alta esperanza de no ser mas del monton de administradores, abogados y contadores que inundaban la mesa con historias de "exito" basado en engaños o tranzas, avanzaba paso a paso a realizar las pruebas necesarias para demostrar el conocimiento suficiente para poder ganar un lugar en dicha institucion.
+
+9 de Julio  8:00 pm, desesperado por conocer resultados del examen de admisión, Carlos pegaba a los 4 vientos la frase que desde hace tiempo ya quiera poder expresar "ME ACEPTARON!!!", casi como obligados por alguna fuerza, cada uno de sus hermanos y parientes falseaban una sonrisa y le dedicaban la frase - Felicidades Carlos!, espero que te vaya muy bien!- cosa que para el no causaba otro sentimiento mas que el de libertad, desde muy pequeño fue influenciado por su familia para inclinarce al ambito administrativo, ya que provenia de un linaje de abogados y economistas los cuales aseguraban la mejor eleccion de su vida seria elegir la misma carrera, ya que la vida la tendria resuelta, cosa que carlos se negaba rotundamente, no apresiaba de la misma manera las ciencias economicas administrativas, mas bien todo lo contrario, cansado de escuchar todo lo malo que debia hacer para poder sobresalir (El que no transa no avanza) la mejor solucion para el, era poder estudiar algo que realmente lo alentara a seguir adeltante, algo que le causara mas un reto que un camino facil 
 
 ## Caminar rumbo a volar
 
@@ -62,5 +64,5 @@ Carrera realizada con logros de especializacion en el extranjero, reconocimiento
 
 ## References
 
-
+https://es.wikihow.com/trazar-una-historia
  Story develop by Osben Cándido, Instituto Tecnológico de Morelia
