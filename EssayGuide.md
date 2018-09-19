@@ -13,26 +13,30 @@ and dénouement/resolution/revelation/catastrophe^[1]
 
 # Un Ingeniero Más
 
-## Cápitulo 1
+## Una ruta sin sentido.
 
-Luvia de ideas:
+Desanimado por una vida preescrita llena de contratos por leer, administrar, gente falsa e impugna que defender, miles y miles de hojas de contabilidad que llenar, cuentas que rendir a personas de un alto nivel socieconomico o simplemente el hecho de tener que estar detras de un escritorio en un trabajo el cual no le generara ningun tipo de emocion, asi se veia el Joven Carlos, en aquella epoca, Verano del 2003, ciudad: Atlixco, Puebla.
+
+Decido a realizar examen de admision en el Instituto tecnológico de Puebla, en su cabeza solo podia escuchar la voz de su madre replicandole, ¿Porque alli?, ¿Porque no vas con tus primos a la escuela de abogados?, ¿Porque no vas entras con tu hermano a contabilidad? ¿Porque una ingenieria? ¿Para que? ¿De eso ni hay trabajo aqui?. Estas y mas de un millar de preguntas mas, solo reforzaban el deseo de querer
+
+## Caminar rumbo a volar
+
+
+### Luvia de ideas:
 
 - Historia educación en México.
-- Atrixco, puebla, Año 2003.
+- Atlixco, puebla, Año 2003.
 - linaje en la familia  abogados, contadores, administradores.
-- Curiosidad ambito tecnológico, inspirado en historias y reconocimientos obtenidos por padres.
-- Relatos e historias donde el ambito tecnologico tiene un gran impacto.
-
-## Cápitulo 2
-Trama principal de la historia:
+- Curiosidad ambito tecnológico
 - Conflictos por seleccion de estudios.
-- Crisis económica por familiares.
 - Resolucion de problematicas.
 - Cambio en el cruso de la historia.
 - **¿Quién es el protagonista?**
+Joven 17 años, Apasionado por Tecnologia en robotica
 - *¿Qué quiere?*
+Realizar estudios en ambito tencológico con posibilidad de viajar al extranjero para dar aportes a la sociedad.
 - ¿Qué se interpone en su camino para alcanzar su objetivo**.
-
+Presion familiar, recurso, amistades
 ## Personajes
 - Familiares. Madre soltera, Abuelos orgullosos.
 - Amigos. 3 amigos, el conflictivo, el apoyador, un traidor.
@@ -46,52 +50,17 @@ Trama principal de la historia:
 - Conflictos, problemas, soluciones.
 - Desenlace
 
-## Conclusion
+## Destino fijo
 
 Posibles desenlaces.
 - Cumplimiento de objetivos, con posibles repercusiones.
 - Deslenace tragico, con moraleja y enseñanza como ejemplo de vida.
 - Objetivos alcanzados.
 
-Also you can try reading this guide to help yourself to start your essay-Story [^1].
+Carrera realizada con logros de especializacion en el extranjero, reconocimientos a nivel internacional, costo de sacrifricio familiar, desapego a gente cercana.
+
+
 ## References
 
-[^1]: Ten Steps to Write an Essay, http://www.schoolatoz.nsw.edu.au/homework-and-study/homework-tips/10-tips-for-writing-an-essay, accessed August 23, 2018.
 
-[^2]: Trazar una historia, https://es.wikihow.com/trazar-una-historia
-
-------
-## Helpful code in MD
-
-### Task List
-- [x] this is a complete item
-- [ ] this is an incomplete item
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-
-### Emoji
-GitHub supports emoji!
-:+1: :sparkles: :camel: :tada:
-:rocket: :metal: :octocat:
-
-### Tables
-
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
-
-### Fenced Code Blocks
-
-``` java
-for x=0:1:100;
-  y(x)=x.^2;
-end for
-
-```
-
-As Grace Hopper said:
-> I’ve always been more interested
-> in the future than in the past.
-
-Guide develop by Gerardo Marx, Instituto Tecnológico de Morelia
+ Story develop by Osben Cándido, Instituto Tecnológico de Morelia
